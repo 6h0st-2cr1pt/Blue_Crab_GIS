@@ -1,0 +1,31 @@
+<h2>Blue Crab GIS</h2>
+<p>A comprehensive Geographic Information System designed for monitoring and analyzing Blue Crab populations in Negros Occidental.</p>
+
+<h3>Features:</h3>
+<ul>
+    <li>Interactive GIS mapping with multiple view options</li>
+    <li>Data analytics with charts and visualizations</li>
+    <li>Dataset management and filtering</li>
+    <li>CSV import and manual data entry</li>
+    <li>Customizable settings</li>
+</ul>
+
+<h3>Developer Information:</h3>
+<p>This application was developed by Jonald Sabordo as a tool for marine biologists and environmental researchers to track and analyze Blue Crab populations in Negros Occidental.</p>
+
+<p>Contact: your.jonaldsabordo@gmail.com</p>
+
+<h3>Technical Details:</h3>
+<p>Built with PyQt5, Folium, Matplotlib, and SQLite.</p>
+
+<h3>Acknowledgements:</h3>
+<p>Special thanks to the following organizations and individuals for their support and contributions:</p>
+<ul>
+    <li>Department of Environment and Natural Resources</li>
+    <li>Bureau of Fisheries and Aquatic Resources</li>
+    <li>Local fishermen and community members</li>
+</ul>
+
+<p><b>Version:</b> 1.0.0</p>
+<p><b>Release Date:</b> 2025</p>
+<p><b>License:</b> MIT License</p>
