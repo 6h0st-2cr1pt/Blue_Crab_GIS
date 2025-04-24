@@ -10,7 +10,7 @@ class SplashScreen(QSplashScreen):
         super().__init__()
         
         # Load splash image
-        splash_img = QPixmap(os.path.join('assets', 'blue_crab_logo.png'))
+        splash_img = QPixmap(os.path.join('assets', 'blue_crab_logo.jpg'))
         if splash_img.isNull():
             # Fallback if image not found
             splash_img = QPixmap(400, 300)
